@@ -1,0 +1,12 @@
+1644152405379	geckodriver	INFO	Listening on 127.0.0.1:56218
+1644152408450	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\milos\\AppData\\Local\\Temp\\rust_mozprofileyON13V"
+1644152468902	geckodriver	INFO	Listening on 127.0.0.1:56347
+1644152472015	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\milos\\AppData\\Local\\Temp\\rust_mozprofilePcZWZP"
+1644152474179	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\milos\\AppData\\Local\\Temp\\rust_mozprofilePcZWZP\\search.json.mozlz4", (void 0)))
+1644152480678	Marionette	INFO	Listening on port 56355
+1644152481196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yatra.com/Q7G4F7jLYx/_rIISZp3FW/h1w7SmzV/e04mRgUE/OFlKc/0NocEQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644152488995	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1644152496461	Marionette	INFO	Stopped listening on port 56355
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
